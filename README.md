@@ -1,6 +1,6 @@
 ### Nama: Adnisa Sabina | NIM: 20102219 | Prodi: Teknik Informatika
 
-## Judul:RANCANG BANGUN WEBSITE SISTEM INFORMASI LKP ROSE ALLENA MENGGUNAKAN METODE EXTREME PROGRAMMING
+## Judul: RANCANG BANGUN WEBSITE SISTEM INFORMASI LKP ROSE ALLENA MENGGUNAKAN METODE EXTREME PROGRAMMING
 
 Lembaga Kursus dan Pelatihan (LKP) adalah lembaga 
 pendidikan non-formal yang diizinkan dan diakui oleh pemerintah 
